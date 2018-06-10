@@ -40,12 +40,12 @@
   
 <distributionManagement>
     <repository>
-        <id>cts-nexus</id>
+        <id>deployment</id>
         <name>bd7e4d6b271d-releases</name>
         <url>http://192.168.122.101:8081/nexus/content/repositories/ncd/</url>
     </repository>
     <snapshotRepository>
-        <id>cts-nexus</id>
+        <id>deployment</id>
         <name>bd7e4d6b271d-snapshots</name>
         <url>http://192.168.122.101:8081/nexus/content/repositories/ncdsnap/</url>
 	</snapshotRepository>
